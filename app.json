@@ -1,5 +1,5 @@
 {
-  "name": "xray",
+  "name": "xray01",
   "description": "将xray部署在Heroku上",
   "keywords": [
     "VMess VLESS"
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/worldcom47/inediso",
-  "repository": "https://github.com/worldcom47/inediso",
+  
+  "repository": "https://github.com/yrkdioui/cfsdf ",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
